@@ -45,3 +45,8 @@ class LibserialportConan(ConanFile):
 
     def package_info(self):
         self.cpp_info.libs = ["serialport"]
+
+        if self.settings.compiler == "apple-clang":
+            apple_flags = ['-framework CoreFoundation', '-framework IOKit']
+            self.cpp_info.sharedlinkflags = apple_flags
+            self.cpp_info.exelinkflags = apple_flags
