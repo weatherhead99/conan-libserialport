@@ -2,7 +2,7 @@
 
 | Bintray | Appveyor | Travis | 
 |---------|-----------|--------|
-|BINTRAY_BADGE_URL|APPVEYOR_BADGE_URL|[![Build Status](https://travis-ci.org/weatherhead99/conan-libserialport.svg)](https://travis-ci.org/weatherhead99/conan-libserialport)|
+|[![Download](https://api.bintray.com/packages/weatherhead99/conan_packages/libserialport%3Aweatherhead99/images/download.svg)](https://bintray.com/weatherhead99/conan_packages/libserialport%3Aweatherhead99/_latestVersion)|APPVEYOR_BADGE_URL|[![Build Status](https://travis-ci.org/weatherhead99/conan-libserialport.svg)](https://travis-ci.org/weatherhead99/conan-libserialport)|
 
 ## Conan.io Information
 
