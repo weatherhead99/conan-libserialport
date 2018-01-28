@@ -2,7 +2,7 @@
 
 | Bintray | Appveyor | Travis | 
 |---------|-----------|--------|
-|BINTRAY_BADGE_URL|APPVEYOR_BADGE_URL|TRAVIS_BADGE_URL|
+|BINTRAY_BADGE_URL|APPVEYOR_BADGE_URL|[![Build Status](https://travis-ci.org/weatherhead99/conan-libserialport.svg)](https://travis-ci.org/weatherhead99/conan-libserialport)|
 
 ## Conan.io Information
 
